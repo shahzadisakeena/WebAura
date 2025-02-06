@@ -6,7 +6,7 @@ const Hero = () => {
     <div className=' flex mx-auto'>
       <div className='flex mx-auto items-center justify-center  flex-col lg:w-[80%] mt-28'>
       <h1 className='font-Bebas text-Frost-white lg:text-8xl text-4xl  text-center mx-3'>
-       &#44; Our Code – Custom <br /><span className='text-Cyan'>Websites That Perform</span>
+      &#44; Our Code – Custom <br /><span className='text-Cyan'>Websites That Perform</span>
 
       </h1>
       <p className='text-gray-100 text-xl lg:mx-32 mx-14 mt-5 text-center   '>
